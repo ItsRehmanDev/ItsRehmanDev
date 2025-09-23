@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi 👋, I'm Abdul Rehman
 
-<!--
-**ItsRehmanDev/ItsRehmanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | JavaScript | React | Node.js | Express | MongoDB | Supabase | TailwindCSS | Git
 
-Here are some ideas to get you started:
+🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about building modern, scalable web apps
+
+🧑‍💻 Currently learning & exploring Supabase + TailwindCSS integrations
+
+🎯 My goal: write clean code and create beautiful UI + powerful backend
+
+🌎 From Earth, working remotely and always open to collaboration
+
+🔭 What I’m Working On
+
+⚡ Full-Stack Web Apps with React + Node.js + Express
+
+📦 Supabase Authentication + Database projects
+
+🎨 UI Design with TailwindCSS
+
+💬 Ask Me About
+
+JavaScript (ES6+)
+
+React.js & Component-based Design
+
+Node.js & Express.js APIs
+
+MongoDB & Supabase Databases
+
+TailwindCSS UI Styling
+
+Git & GitHub Collaboration
+
+📫 How to Reach Me
+
+📧 Email: abdulrehmandeveloper@example.com
+
+🔗 LinkedIn: linkedin.com/in/devrehman
+
+💻 GitHub: github.com/DevRehman
+
+⚙️ Languages and Tools
+
+Frontend
+JavaScript • React.js • TailwindCSS
+
+Backend
+Node.js • Express.js
+
+Databases
+MongoDB • Supabase
+
+Other Tools
+Git • GitHub • VS Code
+
+⭐ Always exploring, always learning — one project at a time 🚀
