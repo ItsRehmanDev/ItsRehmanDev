@@ -1,59 +1,55 @@
-Hi 👋, I'm Abdul Rehman
+# 👋 Hi, I'm Abdul Rehman  
 
-🚀 Full-Stack Developer | JavaScript | React | Node.js | Express | MongoDB | Supabase | TailwindCSS | Git
+🚀 Full-Stack Developer | JavaScript | React | Node.js | Express | MongoDB | Supabase | TailwindCSS | Git  
 
-🌟 About Me
+---
 
-💻 Passionate about building modern, scalable web apps
+## 🌟 About Me  
+✨ Passionate about building **modern, scalable web apps**  
+✨ Love to work with **clean UI + powerful backend**  
+✨ Currently exploring **Supabase + TailwindCSS**  
+✨ Always learning new tools & frameworks  
 
-🧑‍💻 Currently learning & exploring Supabase + TailwindCSS integrations
+---
 
-🎯 My goal: write clean code and create beautiful UI + powerful backend
+## 🔭 Current Focus  
+🔹 Developing **Full-Stack MERN + Supabase apps**  
+🔹 Creating **beautiful UI with TailwindCSS**  
+🔹 Working on **authentication & databases with Supabase**  
 
-🌎 From Earth, working remotely and always open to collaboration
+---
 
-🔭 What I’m Working On
+## 💬 Ask Me About  
+💡 JavaScript (ES6+)  
+💡 React.js (Components, Hooks, State Management)  
+💡 Node.js + Express.js (APIs, Middleware)  
+💡 MongoDB & Supabase (Databases, Auth)  
+💡 TailwindCSS (Responsive UI Design)  
+💡 Git & GitHub (Version Control & Collaboration)  
 
-⚡ Full-Stack Web Apps with React + Node.js + Express
+---
 
-📦 Supabase Authentication + Database projects
+## 📫 How to Reach Me  
+📧 Email: **abdulrehmandeveloper@example.com**  
+🔗 LinkedIn: [linkedin.com/in/devrehman](#)  
+💻 GitHub: [github.com/DevRehman](#)  
 
-🎨 UI Design with TailwindCSS
+---
 
-💬 Ask Me About
+## ⚙️ Languages & Tools  
 
-JavaScript (ES6+)
+**Frontend**  
+🟨 JavaScript | ⚛️ React.js | 🎨 TailwindCSS  
 
-React.js & Component-based Design
+**Backend**  
+🌐 Node.js | 🚀 Express.js  
 
-Node.js & Express.js APIs
+**Databases**  
+🍃 MongoDB | 🔑 Supabase  
 
-MongoDB & Supabase Databases
+**Other Tools**  
+🐙 Git | 💻 GitHub | 📝 VS Code  
 
-TailwindCSS UI Styling
+---
 
-Git & GitHub Collaboration
-
-📫 How to Reach Me
-
-📧 Email: abdulrehmandeveloper@example.com
-
-🔗 LinkedIn: linkedin.com/in/devrehman
-
-💻 GitHub: github.com/DevRehman
-
-⚙️ Languages and Tools
-
-Frontend
-JavaScript • React.js • TailwindCSS
-
-Backend
-Node.js • Express.js
-
-Databases
-MongoDB • Supabase
-
-Other Tools
-Git • GitHub • VS Code
-
-⭐ Always exploring, always learning — one project at a time 🚀
+⭐ *Always exploring, always building — one project at a time 🚀*  
