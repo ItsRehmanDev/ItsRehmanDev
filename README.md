@@ -1,55 +1,21 @@
-# 👋 Hi, I'm Abdul Rehman  
+# 💫 About Me:
+# Hi there, I’m Abdul Rehman 👋<br><br>I’m a **Full-Stack Developer** passionate about building **real-world web applications** that are clean, scalable, and user-friendly. I specialize in **JavaScript, TypeScript, React, Node.js**, and modern tools to create seamless digital experiences.<br><br>---<br><br>## 🌟 About Me<br>- I turn ideas into interactive products that solve real problems.  <br>- I believe in **clean code, best practices, and lifelong learning**.  <br>- I contribute to **open-source projects** and enjoy collaborating with other developers.  <br>- Currently exploring **AI, ML, and advanced frontend frameworks** to level up my skills.<br><br>---<br><br>## 💻 Skills<br>**Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript  <br>**Backend:** Node.js, Express.js, REST APIs, Supabase, MongoDB  <br>**Tools & Others:** Git, GitHub, Vercel, Figma, VS Code, NPM, CI/CD<br><br>---<br><br>## 🔭 Projects<br>Here are some of my recent works:  <br><br>1. **Project Name 1** – Short description of problem + tech used + outcome.  <br>   - [Live Demo](#) | [GitHub Repo](#)  <br><br>2. **Project Name 2** – Short description, your role, tech stack, results.  <br>   - [Live Demo](#) | [GitHub Repo](#)  <br><br>3. **Project Name 3** – Example of full-stack project with real impact.  <br>   - [Live Demo](#) | [GitHub Repo](#)  <br><br>*(Replace these with your actual projects — concise but recruiter-friendly)*<br><br>---<br><br>## 🚀 Currently Working On<br>- Building **a full-stack calculator app with Supabase authentication**  <br>- Learning advanced **TypeScript patterns and AI integrations**  <br><br>---<br><br>## 📫 Contact Me<br>- Email: `your-email@example.com`  <br>- LinkedIn: [Your LinkedIn](#)  <br>- Twitter: [Your Twitter](#)  <br>- Portfolio: [Your Portfolio](https://my-potfolio-ashen.vercel.app/)  <br><br>💬 Feel free to **reach out for collaborations, freelance work, or just to talk tech**!  <br><br>---<br><br>## ⚡ Fun Fact<br>- I love turning **complex problems into simple solutions**.  <br>- When not coding, I explore AI, watch tech talks, and experiment with new frameworks.  <br><br>
 
-🚀 Full-Stack Developer | JavaScript | React | Node.js | Express | MongoDB | Supabase | TailwindCSS | Git  
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsrehmandev1@gmail.com) 
 
-## 🌟 About Me  
-✨ Passionate about building **modern, scalable web apps**  
-✨ Love to work with **clean UI + powerful backend**  
-✨ Currently exploring **Supabase + TailwindCSS**  
-✨ Always learning new tools & frameworks  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ItsRehmanDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ItsRehmanDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRehmanDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🔭 Current Focus  
-🔹 Developing **Full-Stack MERN + Supabase apps**  
-🔹 Creating **beautiful UI with TailwindCSS**  
-🔹 Working on **authentication & databases with Supabase**  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ItsRehmanDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ItsRehmanDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💬 Ask Me About  
-💡 JavaScript (ES6+)  
-💡 React.js (Components, Hooks, State Management)  
-💡 Node.js + Express.js (APIs, Middleware)  
-💡 MongoDB & Supabase (Databases, Auth)  
-💡 TailwindCSS (Responsive UI Design)  
-💡 Git & GitHub (Version Control & Collaboration)  
-
----
-
-## 📫 How to Reach Me  
-📧 Email: **abdulrehmandeveloper@example.com**  
-🔗 LinkedIn: [linkedin.com/in/devrehman](#)  
-💻 GitHub: [github.com/DevRehman](#)  
-
----
-
-## ⚙️ Languages & Tools  
-
-**Frontend**  
-🟨 JavaScript | ⚛️ React.js | 🎨 TailwindCSS  
-
-**Backend**  
-🌐 Node.js | 🚀 Express.js  
-
-**Databases**  
-🍃 MongoDB | 🔑 Supabase  
-
-**Other Tools**  
-🐙 Git | 💻 GitHub | 📝 VS Code  
-
----
-
-⭐ *Always exploring, always building — one project at a time 🚀*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
