@@ -4,7 +4,7 @@ Hi there, I’m **Abdul Rehman** 👋
 I’m a **Full-Stack Developer** passionate about building **real-world web applications** that are clean, scalable, and user-friendly.  
 Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern tools to create seamless digital experiences.  
 
-💡 **Portfolio (Live Demo):** [https://its-rehman-dev-iv87.vercel.app/](https://its-rehman-dev-iv87.vercel.app/)  
+💡 **Portfolio (Live Demo):** [https://my-potfolio-phi-rosy.vercel.app/)  
 📧 **Email:** [itsrehmandev1@gmail.com](mailto:itsrehmandev1@gmail.com)
 
 ---
