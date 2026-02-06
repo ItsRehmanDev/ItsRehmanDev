@@ -6,7 +6,7 @@ I’m a **Full-Stack Developer** passionate about building **real-world web appl
 Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern tools to create seamless digital experiences.
 
 💡 **Portfolio (Live Demo):**  
-👉 https://its-rehman-dev-iv87.vercel.app/
+👉 https://my-potfolio-gules.vercel.app/
 
 📧 **Email:**  
 👉 mailto:itsrehmandev1@gmail.com
@@ -15,7 +15,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 
 ## 🌟 Who I Am
 
-- Turning ideas into interactive learning projects and real apps  
+- Turning ideas into interactive learning projects and real applications  
 - Practicing **clean code, best practices, and continuous learning**  
 - Exploring **AI, ML, and modern frontend frameworks**  
 - Contributing to **open-source projects** when possible  
@@ -33,7 +33,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
 
 ---
@@ -73,7 +73,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 ## 🔭 Projects
 
 - **Full-Stack Calculator App**  
-  Built with **Supabase, React, Node.js, Tailwind CSS**
+  Built with **Supabase, React, Node.js, Tailwind CSS**  
 
 - Exploring **AI / ML integration projects** with Python and Go
 
@@ -82,7 +82,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 ## 🚀 Currently Learning
 
 - Advanced **TypeScript patterns**
-- **AI & Machine Learning** in web apps
+- **AI & Machine Learning** integration in web applications
 - **Modern frontend architectures**
 
 ---
@@ -90,7 +90,8 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 ## 📫 Contact Me
 
 - 📧 Email: mailto:itsrehmandev1@gmail.com  
-- 🌐 Portfolio: https://its-rehman-dev-iv87.vercel.app/  
+- 🌐 Portfolio: https://my-potfolio-gules.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-rehman-8ba1023aa/  
 - 🐦 Twitter (X): https://x.com/ItsRehmanDev  
 
 ---
