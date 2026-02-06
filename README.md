@@ -77,8 +77,8 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 ## 📫 Contact Me
 - **Email:** [itsrehmandev1@gmail.com](mailto:itsrehmandev1@gmail.com)  
 - **Portfolio:** [https://its-rehman-dev-iv87.vercel.app/](https://its-rehman-dev-iv87.vercel.app/)  
-- **LinkedIn:** [LinkedIn Profile](#)  
-- **Twitter:** [Twitter Profile](#)  
+- **LinkedIn:** [(https://my-potfolio-gules.vercel.app/)](#)  
+- **Twitter:** [(https://x.com/ItsRehmanDev)](#)  
 
 💬 Feel free to **reach out for collaborations, freelance work, or just to talk tech**!
 
