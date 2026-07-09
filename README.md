@@ -115,7 +115,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ItsRehmanDev&theme=radical&margin-w=4)
+![Trophies](https://github-profile-trophy-git-masterryx.vercel.app/?username=ItsRehmanDev&theme=radical&no-frame=true&margin-w=15)
 
 ---
 
