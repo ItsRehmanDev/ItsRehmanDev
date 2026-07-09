@@ -73,7 +73,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 ## 🔭 Projects
 
 - **Full-Stack Calculator App**  
-  Built with **Supabase, React, Node.js, Tailwind CSS**  
+  Built with **Supabase, React, Node.js, Tailwind CSS**
 
 - Exploring **AI / ML integration projects** with Python and Go
 
@@ -89,10 +89,10 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 
 ## 📫 Contact Me
 
-- 📧 Email: mailto:itsrehmandev1@gmail.com  
-- 🌐 Portfolio: https://my-potfolio-gules.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/abdul-rehman-8ba1023aa/  
-- 🐦 Twitter (X): https://x.com/ItsRehmanDev  
+- 📧 Email: mailto:itsrehmandev1@gmail.com
+- 🌐 Portfolio: https://my-potfolio-gules.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/abdul-rehman-8ba1023aa/
+- 🐦 Twitter (X): https://x.com/ItsRehmanDev
 
 ---
 
@@ -105,9 +105,11 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsRehmanDev&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ItsRehmanDev&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsRehmanDev&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ItsRehmanDev&show_icons=true&theme=dark&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ItsRehmanDev&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItsRehmanDev&layout=compact&theme=dark)
 
 ---
 
@@ -117,4 +119,4 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ItsRehmanDev&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=ItsRehmanDev&label=Profile%20Views&color=0e75b6&style=flat)
