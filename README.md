@@ -9,7 +9,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 👉 https://my-potfolio-gules.vercel.app/
 
 📧 **Email:**  
-👉 mailto:itsrehmandev1@gmail.com
+👉 mailto:contact.rehman.dev@gmail.com
 
 ---
 
@@ -89,7 +89,7 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 
 ## 📫 Contact Me
 
-- 📧 Email: mailto:itsrehmandev1@gmail.com
+- 📧 Email: mailto:contact.rehman.dev@gmail.com
 - 🌐 Portfolio: https://my-potfolio-gules.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/abdul-rehman-8ba1023aa/
 - 🐦 Twitter (X): https://x.com/ItsRehmanDev
