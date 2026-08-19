@@ -105,18 +105,28 @@ Currently exploring **JavaScript, TypeScript, React, Node.js, Go**, and modern t
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ItsRehmanDev&show_icons=true&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsRehmanDev&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ItsRehmanDev&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ItsRehmanDev&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ItsRehmanDev&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsRehmanDev&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy-git-masterryx.vercel.app/?username=ItsRehmanDev&theme=radical&no-frame=true&margin-w=15)
+<p align="center">
+  <img src="https://github-trophies.devomb.com/?username=ItsRehmanDev&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ItsRehmanDev&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsRehmanDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
